@@ -48,7 +48,7 @@ ___
 * corobcenco.sandu@gmail.com
 * [Sandu Corobcenco](https://github.com/SanduCorobcenco/)
 ##### Directory:
-* [Current Repository]()
-* [Website]()
+* [Current Repository](https://github.com/SanduCorobcenco/H2_Bootstrap_Portfolio/)
+* [Website](https://sanducorobcenco.github.io/H2_Bootstrap_Portfolio/)
 ---
 #### Licences: **_none_**
